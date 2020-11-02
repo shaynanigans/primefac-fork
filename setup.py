@@ -16,9 +16,9 @@ setup(
     version='1.1.1-2',
     description='A fork of primefac',
     long_description=long_description,
-    url='https://pypi.python.org/pypi/primefac-fork',
-    author='Shiho Midorikawa (Original: lucasbrown.cit)',
-    author_email='shiho.elliptic@gmail.com',
+    url='https://pypi.python.org/pypi/primefac-fork-fork',
+    author='Shaynanigans (Original: Shiho Midorikawa )',
+    author_email='s.brennankelly@gmail.com',
     license='MIT',
     keywords='number numbers integer integers factoring factorization primes '
     'prime numbers math mathematics pollard\'s rho pollard\'s p-1 williams\' '
@@ -26,7 +26,7 @@ setup(
     'mpqs',
     packages=find_packages(),
     py_modules=['primefac', '_primefac'],
-    install_requires=['six', 'gmpy2', 'factordb-pycli'],
+    install_requires=['six', 'gmpy', 'factordb-pycli'],
 
     classifiers=[
         'Development Status :: 5 - Production/Stable',
