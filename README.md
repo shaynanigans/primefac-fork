@@ -22,7 +22,7 @@ This software released under the MIT License.
 
 To install directly from this repository:
 
-``pip install git+git://github.com/elliptic-shiho/primefac-fork@master``
+``pip3 install git+git://github.com/shaynanigans/primefac-fork@master``
 
 ---
 
